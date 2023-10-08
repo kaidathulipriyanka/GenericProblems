@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args)  
         {
             DeleteEleFromArray deleteEleFromArray = new DeleteEleFromArray();
             deleteEleFromArray.Delete_Ele_FromArray();
